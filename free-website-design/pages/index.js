@@ -161,7 +161,7 @@ const LandingPage = () => {
             </div>
           ))}
           <button className="bg-black text-white px-8 py-4 font-bold flex items-center space-x-2 hover:bg-gray-800 transition-colors">
-            <span>SUBMIT APPLICATION</span>
+            <span>SUBMIT </span>
           </button>
         </form>
       </motion.section>
